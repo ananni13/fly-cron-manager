@@ -5,6 +5,7 @@
 
 app = 'ananni-cron-manager'
 primary_region = 'ams'
+swap_size_mb = 512
 
 [[mounts]]
   source = 'data'

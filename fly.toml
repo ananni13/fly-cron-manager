@@ -3,8 +3,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cron-manager'
-primary_region = 'ord'
+app = 'ananni-cron-manager'
+primary_region = 'ams'
 
 [[mounts]]
   source = 'data'
